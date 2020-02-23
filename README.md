@@ -1,3 +1,3 @@
 # Manoj Application
 
-This application created by ** Manoj Nagarale **
+ This is my Repo
