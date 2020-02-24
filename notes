@@ -1,0 +1,58 @@
+=============GIT=============
+git Username : mnagarale 
+passwd : LAsm@123
+
+git --version
+
+git config --global --user.name "Manoj Nagarale
+git config --global user.email "manojnagarale@yahoo.com"
+
+cd /mydir
+
+git init
+
+git status
+
+git add app.py
+
+WORKING DIR ===> STAGING AREA ==>COMMITED AREA
+
+git commit
+
+git commit -am "COmment about commit"
+
+git show "commit ID"
+
+git log --oneline	
+
+vim .gitignore ====> to add sensitive file , which not to be tracked by git
+
+git add .  ->add all files of current working directory.
+git add * 
+
+git tag --a updates-23022020 738eb195a26274443adc0628ca4b22add2da571e -m "Todays MEssage"   ===> Creating alias
+
+Create repository on git
+git remote add origin https://github.com/mnagarale/My-appilcation.git
+
+git remote -v
+
+git push origin master
+
+README.md ----> markdown format
+
+git pull origin master
+
+git branch  --> list branches
+
+git checkout -b NEWBRANCH
+
+git checkout NEWBRANCH --> switch to new branch
+
+git checkout master
+
+git merge dev  ====> Merge dev branch ito Master
+
+
+
+
