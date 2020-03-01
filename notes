@@ -51,6 +51,7 @@ git checkout master
 
 git merge dev  ====> Merge dev branch ito Master
 
+update
 
 
 
